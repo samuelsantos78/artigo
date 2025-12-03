@@ -1,2 +1,2 @@
 # artigo
-sanuel santos silva
+samuel santos silva
